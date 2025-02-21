@@ -4,7 +4,7 @@
 
 2) Use this script and modifiy the birthday wish as appropriate and rename the spreadsheet as required
 
-3) Depending on your env setup run the script (Ex for Mac users **python birthday.py**
+3) Depending on your env setup run the script (Ex for Mac users **python birthday.py** )
 
 Set up a cron job that runs as per your specific time and code is below
 
