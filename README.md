@@ -2,9 +2,11 @@
 
 1) Create a excel spreadsheet with Columns Name / Date of birth / Phone number or Group name
 
-2) Use this script and modifiy the birthday wish as appropriate and rename the spreadsheet as required
+   Note : Date of birth to be in dd/mm/yyyy format & in column you can include individual phone number or group names
 
-3) Depending on your env setup run the script (Ex for Mac users **python birthday.py** )
+3) Use this script and modifiy the birthday wish as appropriate and rename the spreadsheet as required
+
+4) Depending on your env setup run the script (Ex for Mac users **python birthday.py** )
 
 Set up a cron job that runs this code as per your specific time and code is as below
 
@@ -25,4 +27,4 @@ crontab -l
 5️⃣ Check logs if it runs correctly:
 grep CRON /var/log/syslog
 
-Wish you closed ones without fail
+Wish you dear ones without fail
