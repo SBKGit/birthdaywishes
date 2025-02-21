@@ -12,8 +12,10 @@ Set up a cron job that runs as per your specific time and code is below
 crontab -e
 
 2️⃣ Add this line to run the script daily at 12 AM UK time (or 5:30 AM IST):
-30 5 * * * /usr/bin/python3 /Users/shireesh.kantharaj/Documents/birthdays.py
-(Replace /usr/bin/python3 with your actual Python path, check with which python3)
+
+30 5 * * * /usr/bin/python3 /Users/..../birthdays.py
+
+Note : Replace /usr/bin/python3 with your actual Python path, check with which python3
 
 3️⃣ Save & Exit.
 
