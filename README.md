@@ -6,7 +6,7 @@
 
 3) Depending on your env setup run the script (Ex for Mac users **python birthday.py** )
 
-Set up a cron job that runs as per your specific time and code is below
+Set up a cron job that runs this code as per your specific time and code is as below
 
 1️⃣ Open the cron editor:
 crontab -e
@@ -24,3 +24,5 @@ crontab -l
 
 5️⃣ Check logs if it runs correctly:
 grep CRON /var/log/syslog
+
+Wish you closed ones without fail
