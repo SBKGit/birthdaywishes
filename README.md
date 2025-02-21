@@ -1,10 +1,11 @@
-1) This code automates to send the birthday wishes, code checks the current date and if it matches the dates in the spreadsheet it sends out wishes in the whatsapp group 😂
+**This code automates to send the birthday wishes, code checks the current date and if it matches the dates in the spreadsheet it sends out wishes in the whatsapp group 😂
+**
 
-2) Create a excel spreadsheet with Columns Name / Date of birth / Phone number or Group name
+1) Create a excel spreadsheet with Columns Name / Date of birth / Phone number or Group name
 
-3) Use this script and modifiy the birthday wish as appropriate and rename the spreadsheet as required
+2) Use this script and modifiy the birthday wish as appropriate and rename the spreadsheet as required
 
-4) Depending on your env setup run the script (Ex for Mac users **python birthday.py**
+3) Depending on your env setup run the script (Ex for Mac users **python birthday.py**
 
 Set up a cron job that runs as per your specific time and code is below
 
