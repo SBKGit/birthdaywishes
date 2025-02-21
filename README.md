@@ -1,5 +1,4 @@
-**This code automates to send the birthday wishes, code checks the current date and if it matches the dates in the spreadsheet it sends out wishes in the whatsapp group 😂
-**
+**This code automates to send the birthday wishes, code checks the current date and if it matches the dates in the spreadsheet it sends out wishes in the whatsapp group**
 
 1) Create a excel spreadsheet with Columns Name / Date of birth / Phone number or Group name
 
